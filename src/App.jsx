@@ -7,7 +7,7 @@ import Moviecard from './Moviecard';
 
 
 //api key http://www.omdbapi.com/?i=tt3896198&apikey=fe2c14ae
-const API_URL='http://www.omdbapi.com/?i=tt3896198&apikey=fe2c14ae'
+const API_URL='https://www.omdbapi.com/?i=tt3896198&apikey=fe2c14ae'
 
 const movie1 = {
   "Title": "Titanic II",
